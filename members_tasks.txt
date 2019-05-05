@@ -1,0 +1,21 @@
+Tasks For Group Members..
+
+1. Hasham
+	-Design a basic GUI of BMI calculator by using PyQt5
+
+
+2. Saad
+	-Make a filind function on which data can store
+
+
+3. Rauhaan
+	-Make a simple Algorithm for analyzing by using ML
+
+
+4. Moiz
+	-Make a link of my GUI with the codes which is given by Burhan
+
+
+
+5. Burhan
+	-Do every coding which is used in whole project.
