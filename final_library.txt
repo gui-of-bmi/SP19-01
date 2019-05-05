@@ -1,0 +1,5 @@
+Names OF Laibraries:
+
+1. PyQt5 for GUI-OF-BMI
+2. Filing for Database
+3. Machine Learning For Analyzing
