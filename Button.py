@@ -1,0 +1,50 @@
+[3:15 AM, 5/24/2019] Hasham Uni: self.comboBox.setObjectName("comboBox")
+        self.comboBox.addItem("")
+        self.comboBox.addItem("")
+[3:15 AM, 5/24/2019] Hasham Uni: self.pushButton = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton.setGeometry(QtCore.QRect(90, 380, 411, 41))
+        self.pushButton.setStyleSheet("background-color: rgb(71, 71, 71);\n"
+"font: 75 16pt \"MS Shell Dlg 2\";\n"
+"font-weight:600; color:#ffdf5c;")
+        self.pushButton.setObjectName("pushButton")
+        self.lineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.lineEdit.setGeometry(QtCore.QRect(170, 160, 361, 41))
+        self.lineEdit.setStyleSheet("background-color: rgb(255, 255, 255);\n"
+"font: 75 18pt \"MS Shell Dlg 2\";")
+        self.lineEdit.setObjectName("lineEdit")
+        self.lineEdit_2 = QtWidgets.QLineEdit(self.centralwidget)
+        self.lineEdit_2.setGeometry(QtCore.QRect(170, 300, 171, 41))
+        self.lineEdit_2.setStyleSheet("background-color: rgb(255, 255, 255);\n"
+"font: 75 18pt \"MS Shell Dlg 2\";")
+        self.lineEdit_2.setObjectName("lineEdit_2")
+        self.lineEdit_4 = QtWidgets.QLineEdit(self.centralwidget)
+        self.lineEdit_4.setGeometry(QtCore.QRect(170, 230, 171, 41))
+        self.lineEdit_4.setStyleSheet("background-color: rgb(255, 255, 255);\n"
+"font: 75 18pt \"MS Shell Dlg 2\";")
+        self.lineEdit_4.setObjectName("lineEdit_4")
+        self.Height_2 = QtWidgets.QLabel(self.centralwidget)
+        self.Height_2.setGeometry(QtCore.QRect(350, 300, 200, 41))
+        self.Height_2.setStyleSheet("font: 75 16pt \"MS Shell Dlg 2\";")
+        self.Height_2.setObjectName("Height_2")
+        self.Height_3 = QtWidgets.QLabel(self.centralwidget)
+        self.Height_3.setGeometry(QtCore.QRect(350, 230, 240, 41))
+        self.Height_3.setStyleSheet("font: 75 16pt \"MS Shell Dlg 2\";")
+        self.Height_3.setObjectName("Height_3")
+        self.Height_4 = QtWidgets.QLabel(self.centralwidget)
+        self.Height_4.setGeometry(QtCore.QRect(640, 250, 190, 20))
+        self.Height_4.setStyleSheet("font: 75 16pt \"MS Shell Dlg 2\";")
+        self.Height_4.setObjectName("Height_4")
+        self.pushButton_2 = QtWidgets.QPushButton(self.centralwidget)
+        self.pushButton_2.setGeometry(QtCore.QRect(630, 620, 200, 41))
+        self.pushButton_2.setStyleSheet("background-color: rgb(71, 71, 71);\n"
+"font: 75 16pt \"MS Shell Dlg 2\";\n"
+"font-weight:600; color:#ffdf5c;")
+        self.pushButton_2.setObjectName("pushButton_2")
+        self.Ideal_Height = QtWidgets.QTextEdit(self.centralwidget)
+        self.Ideal_Height.setGeometry(QtCore.QRect(630, 400, 210, 40))
+        self.Ideal_Height.setStyleSheet("background-color: rgb(255, 255, 255);\n"
+"font: 75 18pt \"MS Shell Dlg 2\";")
+        self.Ideal_Height.setObjectName("Ideal_Height")
+        self.Ideal_weight_2 = QtWidgets.QLabel(self.centralwidget)
+        self.Ideal_weight_2.setGeometry(QtCore.QRect(620, 340, 230, 30))
+        self.Ideal_weight_2.setStyleSheet("font: 75 18pt \"MS Shell Dlg 2\";\n"
